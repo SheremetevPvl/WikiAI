@@ -1,6 +1,6 @@
-import container from "../StyleContainer/Container.module.css"
+import container from "../../StyleContainer/Container.module.css"
 import style from "./StoragePage.module.css"
-import Storage from "../components/StoragePage/StoragePage"
+import Storage from "../../components/StoragePage/StoragePage"
 
 const StoragePage = () => {
     return (
